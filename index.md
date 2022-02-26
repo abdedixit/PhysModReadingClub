@@ -10,9 +10,9 @@ permalink: /
 
 We are a bunch of physical modellers at the Sonic Arts Research Centre (SARC) at Queen's University Belfast (QUB).
 
-## What we love doing
+## What we enjoy doing
 
-Modelling the physics of musical instruments and simulating them digitally using numerical methods are some of the things we are most passionate about. Apart from these, we love to build sensor interfaces and create virtual-acoustic instruments as well.
+Modelling the physics of musical instruments and simulating them digitally using numerical methods are some of the things we are most passionate about. Apart from these, we enjoy making sensor interfaces and create virtual-acoustic instruments as well.
 
 ## Why a reading club?
 
