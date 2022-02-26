@@ -37,3 +37,12 @@ _"If it is not documented, it did not happen"_, goes a popular saying. The purpo
 ## Website organisation
 
 This website has a simple organisation: the proceedings of the club are organised by year on the left hand side.
+
+## Example equations
+
+$$
+\begin{align}
+e^{j \theta} &= \cos{\theta} + j\ \sin{\theta},\quad \theta \in \mathbb{R}, \\
+\mathbf{A} \mathbf{x} &= \mathbf{b}'
+\end{align}
+$$
