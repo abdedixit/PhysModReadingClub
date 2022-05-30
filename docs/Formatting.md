@@ -4,9 +4,9 @@ title: Formatting
 nav_order: 98
 ---
 
-This page gives an idea of different kinds of formatting we can do using markdown (and a bit of HTML for figures/images). For the syntax, see the file:
+This page gives an idea of different kinds of formatting we can do using markdown (and a bit of HTML). For the syntax, see the file:
 
-```cpp
+```console
 <website-directory>/docs/Formatting.md
 ```
 
@@ -128,19 +128,18 @@ end
 
 ### Small image
 
-<!-- ![](../../assets/images/Apple.png) -->
-<img src="../../assets/images/Apple.png" width="100" height="100">
+<img src="../../assets/images/guitar.jpg" width="100" height="100">
 
 ### Large image
-<img src="../../assets/images/Apple.png" width="200" height="200">
+<img src="../../assets/images/guitar.jpg" width="200" height="200">
 <!-- ![](https://guides.github.com/activities/hello-world/branching.png) -->
 
 ### Image with captions
 <figure>
-    <img src="../../assets/images/Apple.png"
-         alt="Apple logo"
-         width="100" height="100">
-    <figcaption>Logo of the <i>Apple</i> company</figcaption>
+    <img src="../../assets/images/guitar.jpg"
+         alt="Guitar"
+         width="200" height="120">
+    <figcaption>Closeup of a guitar</figcaption>
 </figure>
 
 
@@ -196,3 +195,12 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
+## Example LaTeX equations
+
+$$
+\begin{align}
+e^{j \theta} &= \cos{\theta} + j\ \sin{\theta},\quad \theta \in \mathbb{R}, \\
+\mathbf{A} \mathbf{x} &= \mathbf{b}'
+\end{align}
+$$
