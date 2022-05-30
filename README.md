@@ -1,3 +1,4 @@
 ## README
 
-Proceedings of the physical modelling reading club, QUB.
+Meeting notes of the physical modelling reading club, SARC, QUB:
+https://abdedixit.github.io/PhysModReadingClub/

@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Physical Modelling Reading Club, QUB
-description: Proceedings of the Physical Modelling Reading Club, QUB
+description: Meeting notes of the physical modelling reading club, SARC, QUB https://abdedixit.github.io/PhysModReadingClub/
 # baseurl: "/just-the-docs" # the subpath of your site, e.g. /blog
 # url: "https://abdedixit.github.io/JustTheDocsDemo/" # the base hostname & protocol for your site, e.g. http://example.com
 
